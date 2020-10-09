@@ -1,4 +1,9 @@
 # Chat_System
+# SOCKET / PYTHON / Encryption of Chat / PC's in Network
+
+
+
+
 First open SERVER-1.py and run it.
 
 
